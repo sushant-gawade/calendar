@@ -1,0 +1,15 @@
+.calendar {
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+.calendar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
